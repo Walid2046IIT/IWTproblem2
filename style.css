@@ -1,0 +1,67 @@
+  /* Add some basic styling to the navigation bar */
+  ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ff3503;
+    overflow: hidden;
+}
+
+/* Style the navigation bar links */
+ul.navbar li {
+    float: left;
+    padding: 5px 5px;
+}
+
+ul.navbar li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 5px 5px;
+   
+    text-decoration: none;
+}
+
+/* Change the link color when you hover over it */
+ul.navbar li a:hover {
+    background-color: #06ccfe;
+}
+
+
+body{
+
+    
+    background: url(loginbg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+
+}
+#h1{
+
+background-color: #06ccfe;
+color: rgb(255, 255, 255);
+margin: 0;
+padding: 0;
+height: 50px;
+
+}
+#h2{
+
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    }
+
+
+    .test{
+
+        color: rgb(255, 255, 255);
+
+    }
+    .img{
+
+        align-content: center;
+    }
